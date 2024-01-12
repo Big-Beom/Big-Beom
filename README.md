@@ -10,6 +10,6 @@
 
 <brl>
 
-(resume)[https://beomjun789.wixsite.com/my-site-1]
+[resume](https://beomjun789.wixsite.com/my-site-1)
 
 
